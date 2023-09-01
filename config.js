@@ -5,7 +5,7 @@ const chalk = require("chalk");
 //
 global.available = true;
 global.autoReadGc = false;
-global.autoReadAll = false;
+global.autoReadAll = true;
 global.antitags = true;
 
 
@@ -15,32 +15,32 @@ global.autoRecord = false; //auto recording (true to on, false to off)
 
 
 //
-global.Owner = ["916297175943","919362639362"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number
-global.OwnerNumber = ["916297175943","919362639362"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number
-global.ownertag = ["916297175943"];
-global.OwnerName = "Kai";
-global.BotName = "A17";
-global.packname = "A17 Bot";  //Do not change.
-global.author = "By: Kai";   //Do not change.
-global.BotSourceCode = "https://github.com/Kai0071/A17";  //Do not change.
-global.SupportGroupLink = "https://chat.whatsapp.com/GhRGdwfaMVDCoeAdzILfl"; 
+global.Owner = ["94741671668","94741671668"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number
+global.OwnerNumber = ["94741671668","94741671668"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number
+global.ownertag = ["94741671668"];
+global.OwnerName = "🪄ᴅɪᴅᴜ ᴍᴅ📡";
+global.BotName = "🪄ᴅɪᴅᴜ ᴍᴅ📡";
+global.packname = "🪄ᴅɪᴅᴜ ᴍᴅ📡";  //Do not change.
+global.author = "By: Didula";   //Do not change.
+global.BotSourceCode = "https://github.com/Itsme-Didula/Didu-MD_V1";  //Do not change.
+global.SupportGroupLink = "https://chat.whatsapp.com/JNRIGTWrckF2DTwfaQ658s"; 
 
 
 //global.sessionName = "session";
 
 
 // Set Here Prefix  //
-global.prefa = ["#"];
+global.prefa = ["."];
 global.openAiAPI = "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";
 
 
 //
-global.location = "Tata City, India";
-global.reactmoji = "❤️";
-global.themeemoji = "💖";
+global.location = "Anuradhapura, Srilanka";
+global.reactmoji = "🪄";
+global.themeemoji = "📡";
 global.vidmenu = { url: 'https://media.tenor.com/Jdu0Ov8X2sIAAAAC/A17-Bot.mp4' };
-global.websitex = "https://github.com/Kai0071";
-global.lolhuman = "KaysaS";
+global.websitex = "https://github.com/Itsme-Didula/Didu-MD_V1";
+global.lolhuman = "🪄ᴅɪᴅᴜ ᴍᴅ📡";
 
 
 //
